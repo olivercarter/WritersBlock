@@ -13,6 +13,7 @@ Connect Wiimote via OSCulator to MaxMsp port 9000 and load video files.
 
 k.wb.tablet
 Plug in tablet and ensure Jamoma library is installed. 
+NOTE - this project uses some modified versions of effects modules from MusicSDP. If you have the source code max version of MusicSDP, it may cause some minor issues with load in and routing, though using the max project file seems to solve this
 
 oliverglencarter@icloud.com
 kaseypocius@gmail.com
